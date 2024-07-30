@@ -19,7 +19,6 @@ This project is a simple web application developed using Spring Boot and Java. T
 ### Technologies Used
 - **Spring Boot**: Framework used for building the web application.
 - **Java**: Programming language used for developing the application.
-- **Thymeleaf**: Template engine for rendering HTML views.
 - **Bootstrap**: CSS framework for styling the frontend.
 
 ### Project Structure
